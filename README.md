@@ -16,3 +16,6 @@ Bueno el funcionamiento es relativamente sensillo, de la mano con Postman, mi AP
 busca productos (GET), agrega productos (POST), actualiza productos (PUT) y Elimina productos (DELETE), para 
 mantenerla subastada lo mejor posible, y ofrecer una exelente atención a mis clientes cabe aclarar que este proceso 
 tambien se puede hacer desde Swagger, pero eso ya queda a criterio del usuario 
+
+LINK DEL VIDEO UTILIZANDO POSTMAN
+https://drive.google.com/file/d/142ZinsL2wuEiNq5zLx9WGMAdUKYJJM3G/view?usp=sharing
