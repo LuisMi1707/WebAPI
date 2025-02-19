@@ -1,0 +1,11 @@
+CREATE DATABASE DB_API
+
+go 
+
+CREATE TABLE Producto (
+    Id INT PRIMARY KEY IDENTITY(1,1),
+    Nombre NVARCHAR(100) NOT NULL,
+    Precio DECIMAL(10, 2) NOT NULL CHECK (Precio > 0),
+    Stock INT NOT NULL CHECK (Stock >= 0)
+);
+go
